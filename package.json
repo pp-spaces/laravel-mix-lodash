@@ -1,5 +1,6 @@
 {
-  "name": "laravel-mix-lodash",
+  "name": "@pp-spaces/laravel-mix-lodash",
+  "description": "Laravel Mix Lodash extension for generating smaller modular Lodash builds.",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/pp-spaces/laravel-mix-lodash.git",
