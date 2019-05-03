@@ -4,7 +4,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/pp-spaces/laravel-mix-lodash.git",
-  "author": "Socheat <socheatsok78@gmail.com>",
+  "author": {
+    "name": "Socheat",
+    "email": "socheatsok78@gmail.com",
+    "homepage": "https://socheat.net",
+    "role": "Developer"
+  },
   "license": "MIT",
   "peerDependencies": {
     "laravel-mix": "^3.0.0 || ^4.0.0"
