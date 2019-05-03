@@ -1,0 +1,15 @@
+{
+  "name": "laravel-mix-lodash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pp-spaces/laravel-mix-lodash.git",
+  "author": "Socheat <socheatsok78@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "laravel-mix": "^3.0.0 || ^4.0.0"
+  },
+  "devDependencies": {
+    "babel-plugin-lodash": "^3.3.4",
+    "lodash-webpack-plugin": "^0.11.5"
+  }
+}
